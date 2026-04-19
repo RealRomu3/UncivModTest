@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Nation Of Argeria",
+		"leaderName": "Arger",
+		"adjective": ["Argerin"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
