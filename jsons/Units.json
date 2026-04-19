@@ -9,6 +9,6 @@
 		"cost": 40,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"attackSound": "phasers"
+		"attackSound": "nonmetalhit"
 	}
 ]
